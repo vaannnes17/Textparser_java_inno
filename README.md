@@ -107,4 +107,5 @@ Input text file: `data/text.txt`
 
 ## Author
 
-Your Name
+Senko Ivan
+
